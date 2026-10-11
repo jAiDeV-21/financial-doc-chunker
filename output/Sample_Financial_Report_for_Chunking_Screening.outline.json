@@ -1,0 +1,441 @@
+{
+  "document": {
+    "doc_id": "sample-financial-report-for-chunking-scr-307c3632",
+    "title": "Sample_Financial_Report_for_Chunking_Screening",
+    "source_file": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "n_pages": 9,
+    "n_chunks": 26,
+    "token_counter": "tiktoken:cl100k_base",
+    "config": {
+      "target_tokens": 400,
+      "max_tokens": 512,
+      "min_tokens": 100,
+      "overlap_tokens": 50,
+      "tokenizer": "cl100k_base",
+      "table_strategy": "lines",
+      "keep_headers_footers": false,
+      "ocr": false
+    },
+    "extraction": {
+      "extractor": "pymupdf",
+      "body_font_size": 9.0,
+      "toc_used": false,
+      "ocr_pages": 0,
+      "n_tables": 8
+    }
+  },
+  "sections": [
+    {
+      "path": [],
+      "level": 0,
+      "page": null,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "AURELIA DIGITAL FINANCE LTD."
+      ],
+      "level": 1,
+      "page": 1,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report"
+      ],
+      "level": 1,
+      "page": 1,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Financial Year 2025–26"
+      ],
+      "level": 6,
+      "page": 1,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Fictional Document — AI/ML Intern Screening Dataset"
+      ],
+      "level": 5,
+      "page": 1,
+      "tokens": 32
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Fictional Document — AI/ML Intern Screening Dataset",
+        "individuals, and events are fictional."
+      ],
+      "level": 6,
+      "page": 1,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Fictional Document — AI/ML Intern Screening Dataset",
+        "Registered Office: 42 Meridian Avenue, Mumbai, Maharashtra, India"
+      ],
+      "level": 6,
+      "page": 1,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Fictional Document — AI/ML Intern Screening Dataset",
+        "Reporting Period: 1 April 2025 to 31 March 2026"
+      ],
+      "level": 6,
+      "page": 1,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview"
+      ],
+      "level": 2,
+      "page": 2,
+      "tokens": 118
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview",
+        "Key Highlights"
+      ],
+      "level": 4,
+      "page": 2,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview",
+        "•"
+      ],
+      "level": 3,
+      "page": 2,
+      "tokens": 16
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview",
+        "•"
+      ],
+      "level": 3,
+      "page": 2,
+      "tokens": 10
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview",
+        "•"
+      ],
+      "level": 3,
+      "page": 2,
+      "tokens": 18
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview",
+        "•"
+      ],
+      "level": 3,
+      "page": 2,
+      "tokens": 11
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview",
+        "•"
+      ],
+      "level": 3,
+      "page": 2,
+      "tokens": 10
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "1. Company Overview",
+        "•",
+        "Reporting Boundary"
+      ],
+      "level": 4,
+      "page": 2,
+      "tokens": 62
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "2. Financial Performance"
+      ],
+      "level": 2,
+      "page": 3,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "2. Financial Performance",
+        "2.1 Consolidated Results"
+      ],
+      "level": 4,
+      "page": 3,
+      "tokens": 223
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "2. Financial Performance",
+        "2.2 Segment Performance"
+      ],
+      "level": 4,
+      "page": 3,
+      "tokens": 143
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "3. Risk Management"
+      ],
+      "level": 2,
+      "page": 4,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "3. Risk Management",
+        "3.1 Principal Risk Categories"
+      ],
+      "level": 4,
+      "page": 4,
+      "tokens": 165
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "3. Risk Management",
+        "3.2 AI and Model Risk"
+      ],
+      "level": 4,
+      "page": 4,
+      "tokens": 211
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance"
+      ],
+      "level": 2,
+      "page": 5,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance",
+        "4.1 Board Structure"
+      ],
+      "level": 4,
+      "page": 5,
+      "tokens": 135
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance",
+        "4.2 Board Committees"
+      ],
+      "level": 4,
+      "page": 5,
+      "tokens": 66
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance",
+        "Board Meeting Disclosure"
+      ],
+      "level": 4,
+      "page": 5,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance",
+        "•"
+      ],
+      "level": 3,
+      "page": 5,
+      "tokens": 17
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance",
+        "•"
+      ],
+      "level": 3,
+      "page": 5,
+      "tokens": 17
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance",
+        "•"
+      ],
+      "level": 3,
+      "page": 5,
+      "tokens": 17
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "4. Corporate Governance",
+        "•"
+      ],
+      "level": 3,
+      "page": 5,
+      "tokens": 21
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "5. Sustainability and ESG"
+      ],
+      "level": 2,
+      "page": 6,
+      "tokens": 0
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "5. Sustainability and ESG",
+        "5.1 Environmental Performance"
+      ],
+      "level": 4,
+      "page": 6,
+      "tokens": 160
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "5. Sustainability and ESG",
+        "5.2 Social and Responsible Finance"
+      ],
+      "level": 4,
+      "page": 6,
+      "tokens": 113
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "5. Sustainability and ESG",
+        "5.3 ESG Data Notes"
+      ],
+      "level": 4,
+      "page": 6,
+      "tokens": 59
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "6. Regulatory and Compliance Disclosures"
+      ],
+      "level": 2,
+      "page": 7,
+      "tokens": 42
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "6. Regulatory and Compliance Disclosures",
+        "Customer Data Protection Clause"
+      ],
+      "level": 4,
+      "page": 7,
+      "tokens": 127
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "6. Regulatory and Compliance Disclosures",
+        "Compliance Metrics"
+      ],
+      "level": 4,
+      "page": 7,
+      "tokens": 65
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "7. Management Outlook"
+      ],
+      "level": 2,
+      "page": 8,
+      "tokens": 131
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "7. Management Outlook",
+        "Selected FY2026–27 Targets"
+      ],
+      "level": 4,
+      "page": 8,
+      "tokens": 48
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "7. Management Outlook",
+        "Forward-Looking Statement"
+      ],
+      "level": 4,
+      "page": 8,
+      "tokens": 84
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Appendix A — Document Index"
+      ],
+      "level": 2,
+      "page": 9,
+      "tokens": 65
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Appendix B — Chunking Test Notes"
+      ],
+      "level": 2,
+      "page": 9,
+      "tokens": 59
+    },
+    {
+      "path": [
+        "Integrated Financial & Sustainability Report",
+        "Appendix B — Chunking Test Notes",
+        "End of Document"
+      ],
+      "level": 4,
+      "page": 9,
+      "tokens": 32
+    }
+  ]
+}

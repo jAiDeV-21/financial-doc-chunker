@@ -14,7 +14,7 @@ Python API: `process_document(Path, ChunkConfig) -> (chunks, outline, document_i
 
 ## Pipeline
 
-![Pipeline](doc_chunker_top_level_call_graph.svg)
+![Pipeline](static/image.png)
 
 ## Chunking strategy and why
 

@@ -3,6 +3,3 @@
 
 # Dunder pycache
 __pycache__/
-
-# SVGs
-doc_chunker_top_level_call_graph.svg
